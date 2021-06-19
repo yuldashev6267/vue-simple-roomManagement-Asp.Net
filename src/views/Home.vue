@@ -20,6 +20,8 @@ export default {
 
 
 
+
+
 <style scoped>
     .main {
         height: 425px;
